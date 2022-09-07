@@ -12,21 +12,21 @@ const Carousel = () => {
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img
-              src="/Assets/Jølstra_1390.jpg"
+              src="/Assets/article_topimage_vannkraft.jpg"
               class="d-block w-100"
               alt="Kraftverk1"
             />
           </div>
           <div class="carousel-item">
             <img
-              src="/Assets/Mork.jpg"
+              src="/Assets/vannkraft-1-foto-shutterstock-ntb.jpg"
               class="d-block w-100"
               alt="Kraftverk2"
             />
           </div>
           <div class="carousel-item">
             <img
-              src="/Assets/nedreotta.jpg"
+              src="/Assets/Vannkraft.jpg"
               class="d-block w-100"
               alt="Kraftverk3"
             />
