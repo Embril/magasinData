@@ -4,10 +4,10 @@ const Navbar = () => {
   return (
     <>
       <div>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light py-3 shadow-sm">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light py-2 shadow-sm">
           <div className="container">
-            <a class="navbar-brand fw-bold fs-4" href="#">
-              Norsk Vannmagasin Data
+            <a class="navbar-brand fw-bold fs-3" href="#">
+              NORSKE VANNMAGASIN
             </a>
             <button
               class="navbar-toggler"
@@ -64,20 +64,6 @@ const Navbar = () => {
                   </a>
                 </li>
               </ul>
-              <form class="form-inline my-2 my-lg-0">
-                <input
-                  class="form-control mr-sm-2"
-                  type="search"
-                  placeholder="Search"
-                  aria-label="Search"
-                />
-                <button
-                  class="btn btn-outline-success my-2 my-sm-0"
-                  type="submit"
-                >
-                  Search
-                </button>
-              </form>
             </div>
           </div>
         </nav>
